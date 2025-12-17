@@ -1,0 +1,5 @@
+{
+  "name": "SMS-Sec Awareness Lab",
+  "description": "An educational vulnerability research tool focused on SMS protocol security, PDU encoding, and Silent SMS (Type 0) awareness. Designed with a Terminal-inspired UI for security enthusiasts.",
+  "requestFramePermissions": []
+}
